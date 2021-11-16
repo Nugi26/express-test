@@ -1,0 +1,15 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "author": "nugi26",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": "14.17"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
